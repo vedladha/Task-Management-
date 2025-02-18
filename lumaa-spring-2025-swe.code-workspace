@@ -1,0 +1,23 @@
+{
+	"folders": [
+		{
+			"name": "lumaa-spring-2025-swe",
+			"path": "."
+		}
+	],
+	"settings": {
+		"sqltools.connections": [
+			{
+				"previewLimit": 50,
+				"server": "localhost",
+				"port": 5433,
+				"driver": "PostgreSQL",
+				"name": "Postgres",
+				"database": "Lumaa",
+				"username": "postgres",
+				"password": "Vedantladha04",
+				"connectionTimeout": 30
+			}
+		]
+	}
+}
